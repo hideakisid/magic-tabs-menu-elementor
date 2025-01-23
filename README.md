@@ -1,0 +1,1 @@
+# magic-tabs-menu-elementor

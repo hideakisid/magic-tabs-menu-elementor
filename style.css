@@ -1,0 +1,5 @@
+.menus {
+    display: none !important; /* Garante que os menus sejam ocultos inicialmente */
+    /* Certifique-se de que não há transições */
+    transition: none !important;
+}
